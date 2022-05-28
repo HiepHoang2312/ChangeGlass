@@ -1,9 +1,11 @@
 /* import logo from './logo.svg'; */
 import './App.css';
-import Changeglass from './changeglass';
+import ShoesShop from './ShoesShop/ShoesShop';
 function App() {
   return (
-    <Changeglass></Changeglass>
+   <div>
+     <ShoesShop></ShoesShop>
+   </div>
   );
 }
 
